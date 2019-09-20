@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/wanghuaxia822/pipeline-java/_apis/build/status/huaxiawang.pipelines-java?branchName=master)](https://dev.azure.com/wanghuaxia822/pipeline-java/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
